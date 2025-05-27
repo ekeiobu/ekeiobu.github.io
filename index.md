@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Ekei Obu
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Jesus is in a hurry."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Junior, Strategic communication major and minor in business admin @ Morgan State University"
+  - "🔬 Research: A Hybrid Multimodal Deep Learning Approach for Cardiovascular Disease (CVD) Diagnosis"
+  - "📍 Based in Baltimore, MD"
+  - "🚀 Passionate about spreading the gospel of Jesus Christ"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/me.jpg
+linkedin: [https://www.linkedin.com/in/taquavian-johnson/
+image: /assets/images/me.jpg](https://www.linkedin.com/in/ekei-obu-b4140225b/)
 ---
