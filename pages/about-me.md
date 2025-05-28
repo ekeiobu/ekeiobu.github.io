@@ -27,11 +27,11 @@ inspire positive change.
       description: I enjoy reading Nigerian novels and also trying out new recipes 
   gallery:
     - image: /assets/images/WhatsApp Image 2025-05-28 at 12.54.59 PM.jpeg
-      caption:going on a run
+      caption: going on a run
     - image: assets/images/WhatsApp Image 2025-05-28 at 12.55.25 PM.jpeg
       caption: picnic
     - image: assets/images/WhatsApp Image 2025-05-28 at 12.55.46 PM.jpeg
-      caption:panel talk
+      caption: panel talk
     - image: assets/images/WhatsApp Image 2025-05-28 at 12.57.13 PM.jpeg
       caption: sip and paint with a friend
 ---
