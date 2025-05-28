@@ -9,7 +9,7 @@ about:
   image: assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
   LinkedIn: https://www.linkedin.com/in/ekei-obu-b4140225b/
   
-  bio: /
+  bio: |
    Hi, I’m Ekei Obu, a passionate and creative strategist from Nigeria, currently pursuing a degree in strategic communication and a minor in business administration at Morgan State University. With a deep love for media and event coordination, I specialize in
 combining innovative ideas with strategic execution to create impactful, engaging experiences. My journey has
 been shaped by my desire to connect people through meaningful content, dynamic events, and purpose-driven
