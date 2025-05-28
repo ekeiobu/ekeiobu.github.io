@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Ekei Obu 
   role: Junior, Strategic Communication Major and Minor in Business Administration 
-  image: assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
+  image: 
   linkedin:https://www.linkedin.com/in/ekei-obu-b4140225b/
   bio: |
    Hi, I’m Ekei Obu, a passionate and creative strategist from Nigeria, currently pursuing a degree in Multimedia
