@@ -26,7 +26,7 @@ inspire positive change.
       title: reading and cooking
       description: I enjoy reading Nigerian novels and also trying out new recipes 
   gallery:
-    - image: /assets/images/WhatsApp Image 2025-05-28 at 12.54.59 PM.jpeg
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.54.59 PM.jpeg
       caption: going on a run
     - image: assets/images/WhatsApp Image 2025-05-28 at 12.55.25 PM.jpeg
       caption: picnic
