@@ -4,35 +4,34 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Ekei Obu 
+  role: Junior, Strategic communication Major and Minor in Business adim 
+  image: /assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
+  linkedin:https://www.linkedin.com/in/ekei-obu-b4140225b/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
-
+   Hi, I’m Ekei Obu, a passionate and creative strategist from Nigeria, currently pursuing a degree in Multimedia
+Journalism at Morgan State University. With a deep love for media and event coordination, I specialize in
+combining innovative ideas with strategic execution to create impactful, engaging experiences. My journey has
+been shaped by my desire to connect people through meaningful content, dynamic events, and purpose-driven
+initiatives. At the core of all my work is my faith in Jesus, which fuels my desire to bring people together and
+inspire positive change.
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
-
+    - icon: ✈️
+      title: traveling 
+      description: I enjoy traveling, visiting new countries and trying new food, learning about the cultura, relating with the people from local place 
+    - icon: 🧖‍♀️
+      title: relaxing 
+      description: I love living a soft and gentle life. I don't like stress
+    - icon: 📔 & 🍳
+      title: reading and cooking
+      description: I enjoy reading Nigerian novels and also trying out new recipes 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/WhatsApp Image 2025-05-28 at 12.54.59 PM.jpeg
+      caption:going on a run
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.55.25 PM.jpeg
+      caption: picnic
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.55.46 PM.jpeg
+      caption:panel talk
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.57.13 PM.jpeg
+      caption: sip and paint with a friend
 ---
