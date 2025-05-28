@@ -12,5 +12,5 @@ quick_facts:
   - " Passionate about spreading the gospel of Jesus Christ"
 
 linkedin: https://www.linkedin.com/in/ekei-obu-b4140225b/
-image: /assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
+image: /assets/images/assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
 ---
