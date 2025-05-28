@@ -5,8 +5,8 @@ permalink: /about-me.html
 
 about:
   name: Ekei Obu 
-  role: Junior, Strategic communication Major and Minor in Business adim 
-  image: /assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
+  role: Junior, Strategic Communication Major and Minor in Business Administration 
+  image: assets/images/WhatsApp Image 2025-04-19 at 7.19.31 PM.jpeg
   linkedin:https://www.linkedin.com/in/ekei-obu-b4140225b/
   bio: |
    Hi, I’m Ekei Obu, a passionate and creative strategist from Nigeria, currently pursuing a degree in Multimedia
@@ -18,7 +18,7 @@ inspire positive change.
   hobbies:
     - icon: ✈️
       title: traveling 
-      description: I enjoy traveling, visiting new countries and trying new food, learning about the cultura, relating with the people from local place 
+      description: I enjoy traveling, visiting new countries and trying new food, learning about the culture, and relating with the people from the local place 
     - icon: 🧖‍♀️
       title: relaxing 
       description: I love living a soft and gentle life. I don't like stress
