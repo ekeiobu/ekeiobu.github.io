@@ -11,5 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - " Passionate about spreading the gospel of Jesus Christ"
 
-linkedin: (https://www.linkedin.com/in/ekei-obu-b4140225b/)
+linkedin: https://www.linkedin.com/in/ekei-obu-b4140225b/
 image: /assets/images/me.jpg
+---
