@@ -1,7 +1,9 @@
 ---
 
 layout: Project
+
 title: About My Project
+
 permalink: about-my-project.html
 
 subtitle: EcgNet
