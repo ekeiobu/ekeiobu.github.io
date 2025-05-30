@@ -1,7 +1,7 @@
 ---
 layout: project
 title: About My Project
-permalink: /about-my-project.html
+permalink: about-my-project.html
 
 subtitle: EcgNet
 project_title: "A Hybrid Multimodal Deep Learning Approach for Cardiovascular Disease (CVD) Diagnosis"
