@@ -1,6 +1,6 @@
 ---
 
-layout: Project
+layout:
 
 title: About My Project
 
