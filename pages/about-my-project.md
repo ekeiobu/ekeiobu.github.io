@@ -11,7 +11,7 @@ project_title: "A Hybrid Multimodal Deep Learning Approach for Cardiovascular Di
 
 problem: |
   Cardiovascular diseases (CVDs) are a leading cause of death globally, and early, accurate diagnosis is critical. Traditional ECG analysis methods often 
- struggle with variability in signals and limited generalization across patient data
+ struggle with variability in signals and limited generalization across patient data 
 
 approach: |
   (TBD)
