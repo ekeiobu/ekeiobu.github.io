@@ -1,32 +1,23 @@
 ---
-
-layout: Project
-
+layout: project
 title: About My Project
-
-permalink: about-my-project.html
+permalink: /about-my-project.html
 
 subtitle: EcgNet
-project_title: "A Hybrid Multimodal Deep Learning Approach for Cardiovascular Disease (CVD) Diagnosis"
+Project_title: "EcgNet: A Hybrid"
 
-problem: |
-  Cardiovascular diseases (CVDs) are a leading cause of death globally, and early, accurate diagnosis is critical. Traditional ECG analysis methods often 
- struggle with variability in signals and limited generalization across patient data 
-
-approach: |
-  (TBD)
-  
-outcome: |
-  (TBD)
-
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
-
-grad_mentor:
-  name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/nxxis
+title: Graduate Research Assistant 
+  image: /assets/images/sudip.jpeg
+  website: https://www.linkedin.com/in/nxxis/ 
 
 faculty_mentor:
-  name: Timothy Oladunni
-  linkedin: https://www.linkedin.com/in/timothyoladunni
+  name: Dr. Timothy Oladunni
+  title: Professor of Computer Science @Morgan State | Artificial Intelligence Specialist
+  image: /assets/images/D. Timothy.jpeg
+  website: https://www.linkedin.com/in/timothyoladunni
+  
+  bio: |
+    Dr. Timothy Oladunni is a computer scientist and professor with a focus on machine learning, biomedical signal processing, and multimodal AI. His research explores ECG analysis, NLP, and CNN-Transformer models, aiming to balance performance and complexity in medical AI. He teaches at Morgan State University and is a visiting assistant professor at Yale, where 
+    he mentors future data scientists and AI researchers. represents students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
 
 ---
